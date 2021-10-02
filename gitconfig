@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = baptiste0712@gmail.com
+	name = Baptiste Bassement
